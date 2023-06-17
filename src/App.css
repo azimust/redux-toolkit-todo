@@ -1,0 +1,11 @@
+li {
+  list-style: none;
+}
+
+.App {
+  text-align: center;
+}
+
+input:checked + span {
+  text-decoration: line-through;
+}
